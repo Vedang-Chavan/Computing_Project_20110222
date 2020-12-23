@@ -5,7 +5,7 @@ This project is made by Vedang Chavan(Roll No.-20110222)
 ## Acknowledgment : 
 I have learnt pygame from [Pygame Documentation.](https://www.pygame.org/docs/)
 
-[Asteroid Image:](https://commons.wikimedia.org/w/index.php?curid=74979917)
+Link for the [Asteroid Image](https://commons.wikimedia.org/w/index.php?curid=74979917)
 
 [bgmusic: Misty Dungeon](PlayOnLoop.com/royalty-free-music/video-game-chiptune-music/)
 
